@@ -20,7 +20,7 @@ AI Learn Fundamentals is a Program created with the sole purpose of simplifying 
 
 **How we will learn**
 
-We will go through the theory on how it works and why, then we procede to code implementaion and finaly applying what we have learn to a real life problem using one of the framewoks.
+We will go through the theory on how it works and why, then we procede to code implementaion and finally applying what we have learn to a real life problem using one of the framewoks.
 
 * e.g, Each concept will have a 3 videos for Theory,Code and Application
 
