@@ -1,6 +1,6 @@
 # Welcome to AI Learn Fundamentals
 # Who we are and why we are here?
-AI Learn Fundamentals is a Program created with the sole purpose of simplifying Artificial intelligence concepts and most importantly to help anyone from begginers to experienced machine and deep learning experts, to develop and improve their skill in this field. We want to inspire you to do great with this with all that is available to us and ultimately create beyond realities limitations.
+AI Learn Fundamentals is a Program created with the sole purpose of simplifying Artificial intelligence concepts and most importantly to help anyone from beginners to experienced machine and deep learning experts, to develop and improve their skill in this field. We want to inspire you to do great with this with all that is available to us and ultimately create beyond realities limitations.
 # Main Focus:
 ## **Artificial Intelligence fields**
 
@@ -59,6 +59,6 @@ Mathematics
 
 We will start with Machine Learning and Scikit Learn
 Then we will explore Deep Learning with Tensorflow, Keras and PyTorch
-After that we dive into computer vision and we will use Tools we will use are Python as a programming language, Tensorflow and **OPENCV**.
+After that we dive into computer vision and the Tools we will use are Python as a programming language, Tensorflow and **OPENCV**.
 We are going to do a lot of projects, some of them from kaggle.
-# **We are going to have a fun and a very productive journey together in AI Learn Fundaments**
+# **We are going to have a fun and a very productive journey together in AI Learn Fundamentals**
