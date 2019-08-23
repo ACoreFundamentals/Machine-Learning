@@ -37,7 +37,7 @@ Programming
 *   Fair Understanding of Python
 
 Third party libraries for data manipulation and visualization in Python
-NOTE!! for these third party libraries prior familiarity and deep knowledge is not required, they are easy to pick up and you can       learn what you need only.
+NOTE!! for these third party libraries prior familiarity and deep knowledge is not required, they are easy to pick up and you can       learned what you need only.
 
 *   pandas - for data manipulation
 *   numpy - for mathematical operations
